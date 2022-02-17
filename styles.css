@@ -1,0 +1,46 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f0f2f5;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .container {
+    width: min(90vh, 800px);
+    margin: auto;
+} */
+
+/* Titles ================================== */
+h2{
+    margin-top: 3.2rem;
+    margin-bottom: 0.8rem;
+    color: var(--dark-blue);
+    font-weight: 400;
+}
+
+/* Header =================================== */
+header {
+    background: #2d4a22;
+    padding: 2rem 0rem 10rem;
+    text-align: center;
+
+}
+
+#logo {
+    color: #ffffff;
+    font-weight: 100;
+}
+
+/* Card ======================================= */
+.card{
+    background: #ffffff;
+    padding: 1.5rem 2rem;
+    border-radius: 0.25rem;
+    margin-bottom: 2rem;
+    color: var(--dark-blue);
+}
