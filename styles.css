@@ -1,4 +1,6 @@
-
+:root{
+    --dark-blue: #363f5f;
+}
 * {
     padding: 0;
     margin: 0;
